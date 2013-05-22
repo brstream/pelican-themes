@@ -12,6 +12,7 @@
             </header>
 
             <article>
+                {% include 'article_infos.html' %}
                 {{ article.content }}{% include 'comments.html' %}
             </article>
             {% if loop.length > 1 %}
