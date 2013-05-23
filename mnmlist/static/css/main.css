@@ -14,7 +14,7 @@ body {
   color: #333;
   font: 20px Hoefler Text, bodyfont, serif;
   line-height: 30px;
-  max-width: 30em;
+  max-width: 37em;
   margin: 60px 14px 0 64px;
 }
 
@@ -122,7 +122,7 @@ pre {
 
 /* line 104, ../../compass/src/main.scss */
 header {
-  padding-bottom: 20px;
+  /*padding-bottom: 20px;*/
 }
 /* line 106, ../../compass/src/main.scss */
 header a {
