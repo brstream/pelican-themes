@@ -15,7 +15,9 @@ body {
   font: 20px Hoefler Text, bodyfont, serif;
   line-height: 30px;
   max-width: 37em;
-  margin: 60px 14px 0 64px;
+  margin-left: auto;
+  margin-right: auto;
+  /*margin: 60px 14px 0 64px;*/
 }
 
 /* line 28, ../../compass/src/main.scss */
@@ -122,6 +124,7 @@ pre {
 
 /* line 104, ../../compass/src/main.scss */
 header {
+  padding-top: 20px;
   /*padding-bottom: 20px;*/
 }
 /* line 106, ../../compass/src/main.scss */
